@@ -8,7 +8,7 @@ class main(object):
 
 
 
-path = "C:\\Users\\andre\\Desktop\\Test\\Van"
+path = "C:\\Users\\andre\\Desktop\\Test\\"
 menu = Menu()
 menu.main_menu(path)
 
