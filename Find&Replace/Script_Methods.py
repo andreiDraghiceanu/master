@@ -79,7 +79,7 @@ class Script_Methods():
                         os.rename(path1, path2)
                         print("file: " + path1 + "  renamed to: " + path2)
 
-# path = "C:\\Users\\andre\\Desktop\\Test\\Mue"
+# path = "C:\\Users\\andre\\Desktop\\Test"
 # init = Script_Methods()
 # init.list_tree(path)
 
