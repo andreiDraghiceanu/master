@@ -1,0 +1,103 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+
+	{% if title %}
+		<title>Spirent - {{ title }}</title>
+	{% else %}
+		<title>Spirent</title>
+	{% endif %}
+
+	<link href="{% static 'style.css' %}" rel="stylesheet" type="text/css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header-wrapper">
+		<div id="header">
+			<div id="logo">
+				<h1><a href="#">Spirent Avalanche</a></h1>
+				<p> Performance Database - <a rel="nofollow">Results & Statistics</a></p>
+			</div>
+			<div id="menu">
+				<ul>
+					<li><a href="home">Home</a></li>
+					<li><a href="results">Results</a></li>
+					<li><a href="compare">Compare</a></li>
+					<li class="current_page_item"><a href="">Statistics</a></li>
+					<li><a href="links">Links</a></li>
+					<li><a href="contact">Contact</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- end #header -->
+	<div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content">
+					<div class="post">
+						<h2 class="title"><a href="#">Performance Database</a></h2>
+						<p class="meta"><span class="date">July 23, 2019</span><span class="posted">Posted by <a href="#">Andrei Draghiceanu</a></span></p>
+						<div style="clear: both;">&nbsp;</div>
+						<div class="entry">
+							<p>This is <strong>Performance Database</strong>, of all equipments (appliances and chassis), <a rel="nofollow">results and statistics</a>.
+								On this page you can find different tables and graphs from every results that are existing in the Performance DB <a>PAD</a>.
+							<p class="links"><a href="#">Read More</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" title="b0x w">Comments</a></p>
+						</div>
+					</div>
+					<div style="clear: both;">&nbsp;</div>
+				</div>
+				<!-- end #content -->
+				<div id="sidebar">
+					<ul>
+						<li>
+							<div id="search" >
+								<form method="get" action="#">
+									<div>
+										<input type="text" name="s" id="search-text" value="" />
+										<input type="submit" id="search-submit" value="GO" />
+									</div>
+								</form>
+							</div>
+							<div style="clear: both;">&nbsp;</div>
+						</li>
+						<li>
+							<h2>Spirent Avalanche</h2>
+							<p>This is Performance Database, of all equipments (appliances and chassis), results and statistics.
+								On this page you can find different tables and graphs from every results that are existing in the Performance DB PAD.</p>
+						</li>
+						<li>
+							<h2>Categories</h2>
+							<ul>
+								<li><a href="#">Results</a></li>
+								<li><a href="#">Statistics</a></li>
+								<li><a href="#">Chassis Types</a></li>
+								<li><a href="#">Performance Defects</a></li>
+								<li><a href="#">Send Report on Email</a></li>
+								<li><a href="#">Insert Tests in DB</a></li>
+								<li><a href="#">Compare</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<!-- end #page -->
+</div>
+
+<div id="footer">
+	<p>Avalanche-Team</p>
+</div>
+<!-- end #footer -->
+
+</body>
+</html>
