@@ -1,0 +1,74 @@
+Module 1. Introduction
+•Why python?
+•Executing Python Code
+•Execution model variations
+•Running python scripts
+•Very basic control structures
+•Function syntax
+•Debugging python scripts
+•Modules/packages
+
+Module 2. Basic types
+•Basic types: numeric
+•Basic types: strings
+•String type
+Lab 1: Simple scripts
+
+Module 3. Sequence types
+•Sequence types
+•List/sequence functions
+•The dictionary type
+•Using set/frozenset type
+•Other sequence types/functions
+
+Module 4. I/O operations
+•Basic file operations
+•Path operations
+•Communicate with external processes
+•Parsing command line arguments
+
+Module 5. Additional control structures
+•context manager and with/as
+•comprehensions
+•creating generator functions
+Lab 2: Scripts with sequence types
+
+Module 6. Regular expressions in Python
+•Regular expression elements
+•Use cases for flags
+•Additional features in regular expressions
+Lab 3: Regular expressions
+
+Module 7. Python development tools
+•Document your code
+•Testing frameworks
+•Logging in python
+•Parallel processing
+
+Module 8. Advanced topics
+•Decorator
+
+Module 9. Object oriented programming in Python
+•OOP basics
+•Member functions
+•Member attributes
+•Operators
+•Class/function decorators
+•Python class template
+Lab 4: Python OO
+
+Module 10. Python Database API
+•Connecting to DB API compliant Relational Database
+Management Systems
+
+Module 11. Creating graphical user interfaces using
+Python/Tkinter
+•Tkinter widgets and their standard attributes ◦Dimensions
+•Organizing widgets in the parent widget area
+
+Module 12. Intorduction to the Python Django WEB
+application framework
+•Architecture
+•Creating a Hello world project
+•Managing settings
+Lab 5: Using frameworks
