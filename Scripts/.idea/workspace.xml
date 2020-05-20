@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1123273a-01f5-4b32-b364-55c9d9481151" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JPGtoPNGconvertor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/astro.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/bulbasaur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/charmander.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/pikachu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pictures/squirtle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dummy.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/email_sender.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pdf_merger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/twopage.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wtr.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unittest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Unittest/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,6 +71,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
