@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e6aa59b-fd8e-4a75-9ed5-6e566625764c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../UnittestPj2/tests/test_second_project.py" beforeDir="false" afterPath="$PROJECT_DIR$/../UnittestPj2/tests/test_second_project.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/challenge.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tests/test_challange.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/challenge.py" />
+        <option value="$PROJECT_DIR$/tests/test_challange.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/ChallangeTwo.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="4107" />
+    <option name="y" value="26" />
+    <option name="width" value="1280" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ChallangeTwo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ChallangeTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_challange.MediumTestCases.test_medium_input_five">
+    <configuration name="Unittests for test_challange.EasyTestCases" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ChallangeTwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_challange.EasyTestCases&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_challange.EasyTestCases.test_easy_input_three" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ChallangeTwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_challange.EasyTestCases.test_easy_input_three&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_challange.MediumTestCases.test_medium_input_five" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ChallangeTwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_challange.MediumTestCases.test_medium_input_five&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_challange.MediumTestCases.test_medium_input_four" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ChallangeTwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_challange.MediumTestCases.test_medium_input_four&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_challange.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="ChallangeTwo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_challange.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_challange.MediumTestCases.test_medium_input_five" />
+        <item itemvalue="Python tests.Unittests for test_challange.MediumTestCases.test_medium_input_four" />
+        <item itemvalue="Python tests.Unittests in test_challange.py" />
+        <item itemvalue="Python tests.Unittests for test_challange.EasyTestCases.test_easy_input_three" />
+        <item itemvalue="Python tests.Unittests for test_challange.EasyTestCases" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e6aa59b-fd8e-4a75-9ed5-6e566625764c" name="Default Changelist" comment="" />
+      <created>1593339970318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593339970318</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_test_challange_MediumTestCases_test_medium_input - 2020.06.28 at 14h 23m 26s.xml">
+      <configuration name="Unittests for test_challange.MediumTestCases.test_medium_input" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_EasyTestCases_test_easy_input - 2020.06.28 at 14h 23m 32s.xml">
+      <configuration name="Unittests for test_challange.EasyTestCases.test_easy_input" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_EasyTestCases_test_easy_input_two - 2020.06.28 at 14h 23m 35s.xml">
+      <configuration name="Unittests for test_challange.EasyTestCases.test_easy_input_two" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_EasyTestCases - 2020.06.28 at 14h 23m 37s.xml">
+      <configuration name="Unittests for test_challange.EasyTestCases" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_EasyTestCases_test_easy_input_three - 2020.06.28 at 14h 23m 46s.xml">
+      <configuration name="Unittests for test_challange.EasyTestCases.test_easy_input_three" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_challange_py - 2020.06.28 at 14h 24m 03s.xml">
+      <configuration name="Unittests in test_challange.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_MediumTestCases_test_medium_input_four - 2020.06.28 at 14h 30m 31s.xml">
+      <configuration name="Unittests for test_challange.MediumTestCases.test_medium_input_four" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_MediumTestCases_test_medium_input_four - 2020.06.28 at 14h 33m 30s.xml">
+      <configuration name="Unittests for test_challange.MediumTestCases.test_medium_input_four" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_MediumTestCases_test_medium_input_four - 2020.06.28 at 14h 33m 40s.xml">
+      <configuration name="Unittests for test_challange.MediumTestCases.test_medium_input_four" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_challange_MediumTestCases_test_medium_input_five - 2020.06.28 at 14h 35m 13s.xml">
+      <configuration name="Unittests for test_challange.MediumTestCases.test_medium_input_five" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="3432" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980299" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/challenge.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_challange.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -59,3 +59,7 @@ class HardTestCase(unittest.TestCase):
 
     def tearDown(self):
         self.counter = None
+
+
+if __name__ == '__main__':
+    unittest.main()
