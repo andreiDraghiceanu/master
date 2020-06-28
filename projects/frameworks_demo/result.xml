@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+   <testsuite errors="0" failures="0" hostname="DESKTOP-7RVVO9B" name="pytest" skipped="0" tests="5" time="27.951" timestamp="2020-06-21T18:42:38.789095">
+      <testcase classname="tests.sportscar.body.test_body.BodyTests" file="tests\sportscar\body\test_body.py" line="6" name="test_can_navigate_to_body_page" time="16.236" />
+      <testcase classname="tests.sportscar.body.test_body.BodyTests" file="tests\sportscar\body\test_body.py" line="11" name="test_bumper" time="0.000" />
+      <testcase classname="tests.sportscar.body.test_body.BodyTests" file="tests\sportscar\body\test_body.py" line="14" name="test_windshield" time="2.073" />
+      <testcase classname="tests.sportscar.engine.test_engine" file="tests\sportscar\engine\test_engine.py" line="3" name="test_engine_functions_as_expected" time="4.936" />
+      <testcase classname="tests.sportscar.entertainment.test_entertainment" file="tests\sportscar\entertainment\test_entertainment.py" line="3" name="test_entertainment_functions_as_expected" time="4.639" />
+   </testsuite>
+</testsuites>
