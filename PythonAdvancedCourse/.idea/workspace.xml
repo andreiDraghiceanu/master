@@ -4,13 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/ip_to_bin&amp;bin_to_ip.py" line="20" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12912ce0-3dd7-4575-8338-30896abd0f82" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DeepDive/DeepDiveI/First-Class Functions/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepDive/DeepDiveI/First-Class Functions/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../DeepDive/DeepDiveI/First-Class Functions/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../DeepDive/DeepDiveI/First-Class Functions/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/try_except_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/try_except_exercise.py" afterDir="false" />
-    </list>
+    <list default="true" id="12912ce0-3dd7-4575-8338-30896abd0f82" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +98,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python for Data Structures, Algorithms and Interviews" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -293,6 +287,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/other.py" />
